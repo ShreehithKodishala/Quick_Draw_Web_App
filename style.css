@@ -1,0 +1,77 @@
+body{
+
+    background-image: linear-gradient(to top, cyan , greenyellow);
+
+}
+
+#label{
+
+    font-size: 25px;
+    font-family: fantasy;
+    font-style: italic;
+    text-shadow: 2px 2px gold;
+
+}
+
+#confidence{
+
+    font-size: 25px;
+    font-family: fantasy;
+    font-style: italic;
+    text-shadow: 2px 2px gold;
+
+}
+
+#sketch_1{
+
+    color: red;
+    font-size: 30px;
+    font-family: fantasy;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+    font-weight: 30px;
+    
+
+}
+
+.btn-info:hover{
+
+    background-color: coral;
+    color: cyan;
+    
+    
+    } 
+
+    h1{
+
+   color: red;
+   font-weight: bold;
+   font-size: 35px;
+   text-shadow: 2px 2px coral;
+   box-shadow: 2px 2px 3px 3px blue;
+
+    }
+
+    #score{
+
+   margin-right: 1200px;
+   color: crimson;
+   font-size: 30px;
+   text-shadow: 3px 2px pink;
+   transform: rotateY(150deg);
+   font-style: oblique;
+
+    }
+
+    #timer{
+
+        margin-left:1100px;
+        color:crimson;
+        font-size: 30px;
+        text-shadow: 3px 2px pink;
+        font-style: oblique;
+        
+
+    }
+    
+  
